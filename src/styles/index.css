@@ -42,3 +42,7 @@ body {
     margin: auto;
 
 }
+
+.glow {
+    box-shadow: 0 0 100px white;
+}
